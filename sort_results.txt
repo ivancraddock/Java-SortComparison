@@ -1,0 +1,72 @@
+*********************
+***SELECTION SORTS***
+---------------------
+----Descending-------
+Size 500: Time to completion = 0.005550536: Total Data Assignments = 2500: Total Opperations = 504995
+Size 1000: Time to completion = 0.003973251: Total Data Assignments = 5000: Total Opperations = 2009995
+Size 5000: Time to completion = 0.070977854: Total Data Assignments = 25000: Total Opperations = 50049995
+Size 10000: Time to completion = 0.211399745: Total Data Assignments = 50000: Total Opperations = 200099995
+----Ascending--------
+Size 500: Time to completion = 0.000925844: Total Data Assignments = 0: Total Opperations = 377245
+Size 1000: Time to completion = 0.002790814: Total Data Assignments = 0: Total Opperations = 1504495
+Size 5000: Time to completion = 0.065482258: Total Data Assignments = 0: Total Opperations = 37522495
+Size 10000: Time to completion = 0.27211362: Total Data Assignments = 0: Total Opperations = 150044995
+----Randomized--------
+Size 500: Time to completion = 0.000503222: Total Data Assignments = 3410: Total Opperations = 389600
+Size 1000: Time to completion = 0.002325024: Total Data Assignments = 9960: Total Opperations = 1558587
+Size 5000: Time to completion = 0.060138807: Total Data Assignments = 36210: Total Opperations = 37869732
+Size 10000: Time to completion = 0.261388078: Total Data Assignments = 96860: Total Opperations = 151176117
+*********************
+***BUBBLE SORTS******
+---------------------
+----Descending-------
+Size 500: Time to completion = 0.007171291: Total Data Assignments = 998000: Total Opperations = 1749002
+Size 1000: Time to completion = 0.006651769: Total Data Assignments = 3996000: Total Opperations = 6998002
+Size 5000: Time to completion = 0.127364985: Total Data Assignments = 99980000: Total Opperations = 174990002
+Size 10000: Time to completion = 0.49869757: Total Data Assignments = 399960000: Total Opperations = 699980002
+----Ascending-------
+Size 500: Time to completion = 0.000068827: Total Data Assignments = 0: Total Opperations = 2001
+Size 1000: Time to completion = 0.000065507: Total Data Assignments = 0: Total Opperations = 4001
+Size 5000: Time to completion = 0.000079695: Total Data Assignments = 0: Total Opperations = 20001
+Size 10000: Time to completion = 0.000591067: Total Data Assignments = 0: Total Opperations = 40001
+----Randomized-------
+Size 500: Time to completion = 0.00060616: Total Data Assignments = 213128: Total Opperations = 417779
+Size 1000: Time to completion = 0.007579423: Total Data Assignments = 2425520: Total Opperations = 5818266
+Size 5000: Time to completion = 0.084064344: Total Data Assignments = 28939128: Total Opperations = 62682551
+Size 10000: Time to completion = 0.536155462: Total Data Assignments = 123829584: Total Opperations = 367505576
+*********************
+***ARRAY SORTS*******
+---------------------
+----Descending-------
+Size 500: Time to completion = 0.012018765: Total Data Assignments = 1247500: Total Opperations = 2122751
+Size 1000: Time to completion = 0.008804122: Total Data Assignments = 4995000: Total Opperations = 8495501
+Size 5000: Time to completion = 0.107361079: Total Data Assignments = 124975000: Total Opperations = 212477501
+Size 10000: Time to completion = 0.378557307: Total Data Assignments = 499950000: Total Opperations = 849955001
+----Ascending-------
+Size 500: Time to completion = 0.000145503: Total Data Assignments = 0: Total Opperations = 4496
+Size 1000: Time to completion = 0.000225499: Total Data Assignments = 0: Total Opperations = 8996
+Size 5000: Time to completion = 0.000969313: Total Data Assignments = 0: Total Opperations = 44996
+Size 10000: Time to completion = 0.000303684: Total Data Assignments = 0: Total Opperations = 89996
+----Randomized-------
+Size 500: Time to completion = 0.00060133: Total Data Assignments = 266410: Total Opperations = 457263
+Size 1000: Time to completion = 0.005967724: Total Data Assignments = 3031900: Total Opperations = 5162926
+Size 5000: Time to completion = 0.031560504: Total Data Assignments = 36173910: Total Opperations = 61540463
+Size 10000: Time to completion = 0.134353946: Total Data Assignments = 154786980: Total Opperations = 263226742
+*********************
+***INSERTION SORTS***
+---------------------
+----Descending-------
+Size 500: Time to completion = 0.00022399: Total Data Assignments = 2994: Total Opperations = 6994
+Size 1000: Time to completion = 0.000278025: Total Data Assignments = 5994: Total Opperations = 13994
+Size 5000: Time to completion = 0.000966899: Total Data Assignments = 29994: Total Opperations = 69994
+Size 10000: Time to completion = 0.001548004: Total Data Assignments = 59994: Total Opperations = 139994
+----Ascending--------
+Size 500: Time to completion = 0.002895866: Total Data Assignments = 0: Total Opperations = 377751
+Size 1000: Time to completion = 0.004715254: Total Data Assignments = 0: Total Opperations = 1505501
+Size 5000: Time to completion = 0.059645245: Total Data Assignments = 0: Total Opperations = 37527501
+Size 10000: Time to completion = 0.184371861: Total Data Assignments = 0: Total Opperations = 150055001
+----Randomized-------
+Size 500: Time to completion = 0.001575776: Total Data Assignments = 2910: Total Opperations = 301223
+Size 1000: Time to completion = 0.002071149: Total Data Assignments = 5922: Total Opperations = 602840
+Size 5000: Time to completion = 0.065434563: Total Data Assignments = 29730: Total Opperations = 26710013
+Size 10000: Time to completion = 0.254254219: Total Data Assignments = 59742: Total Opperations = 103688606
